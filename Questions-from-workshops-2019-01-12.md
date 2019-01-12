@@ -11,7 +11,7 @@ Osoba nr. 4
 Pytanie:
 
 Osoba nr. 5
-Pytanie:
+Pytanie: Czy można nieużywać gita i być szczęśliwym?
 
 Osoba nr. 6
 Pytanie:
